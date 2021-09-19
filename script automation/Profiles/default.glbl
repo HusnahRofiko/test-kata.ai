@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'husnah'</initValue>
+      <name>nama</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'husnah25@gmail.com'</initValue>
+      <name>gmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'PT Kata.ai'</initValue>
+      <name>company_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Sekolah Menengah Atas'</initValue>
+      <name>school_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>input value &quot;profesional&quot; atau &quot;student&quot;</description>
+      <initValue>'profesional'</initValue>
+      <name>role</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'husnah.rofiko@gmail.com'</initValue>
+      <name>gmail_login</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'12345678'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'19'</initValue>
+      <name>date</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'12'</initValue>
+      <name>month</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1987'</initValue>
+      <name>year</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'street merdeka no 32, P.O. bOX 716262'</initValue>
+      <name>address</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Jakarta'</initValue>
+      <name>city</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1'</initValue>
+      <name>state</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'15159'</initValue>
+      <name>postal_code</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'21'</initValue>
+      <name>country</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'628171717179'</initValue>
+      <name>phone</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'alias 32'</initValue>
+      <name>alias</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>value diinput mr atau mrs</description>
+      <initValue>'mr'</initValue>
+      <name>title</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'QA'</initValue>
+      <name>Job</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>3</initValue>
+      <name>id</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
